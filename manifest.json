@@ -1,0 +1,18 @@
+{
+ "version": 1,
+ "voice": "en_GB-northern_english_male-medium",
+ "chapters": {
+  "front01": {
+   "file": "front01.mp3",
+   "duration": 309.194
+  },
+  "ch00": {
+   "file": "ch00.mp3",
+   "duration": 74.059
+  },
+  "ch01": {
+   "file": "ch01.mp3",
+   "duration": 707.206
+  }
+ }
+}
