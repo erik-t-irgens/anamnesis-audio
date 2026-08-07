@@ -4,15 +4,171 @@
  "chapters": {
   "front01": {
    "file": "front01.mp3",
-   "duration": 309.194
+   "duration": 315.127
   },
   "ch00": {
    "file": "ch00.mp3",
-   "duration": 74.059
+   "duration": 75.765
   },
   "ch01": {
    "file": "ch01.mp3",
-   "duration": 707.206
+   "duration": 717.353
+  },
+  "ch02": {
+   "file": "ch02.mp3",
+   "duration": 523.862
+  },
+  "ch03": {
+   "file": "ch03.mp3",
+   "duration": 512.995
+  },
+  "ch04": {
+   "file": "ch04.mp3",
+   "duration": 429.555
+  },
+  "ch05": {
+   "file": "ch05.mp3",
+   "duration": 1071.695
+  },
+  "ch06": {
+   "file": "ch06.mp3",
+   "duration": 884.047
+  },
+  "ch07": {
+   "file": "ch07.mp3",
+   "duration": 651.187
+  },
+  "ch08": {
+   "file": "ch08.mp3",
+   "duration": 496.925
+  },
+  "ch09": {
+   "file": "ch09.mp3",
+   "duration": 822.828
+  },
+  "int01": {
+   "file": "int01.mp3",
+   "duration": 730.518
+  },
+  "ch10": {
+   "file": "ch10.mp3",
+   "duration": 1118.511
+  },
+  "front02": {
+   "file": "front02.mp3",
+   "duration": 178.166
+  },
+  "ch11": {
+   "file": "ch11.mp3",
+   "duration": 730.077
+  },
+  "ch12": {
+   "file": "ch12.mp3",
+   "duration": 582.366
+  },
+  "ch13": {
+   "file": "ch13.mp3",
+   "duration": 511.301
+  },
+  "ch14": {
+   "file": "ch14.mp3",
+   "duration": 508.863
+  },
+  "ch15": {
+   "file": "ch15.mp3",
+   "duration": 336.374
+  },
+  "ch16": {
+   "file": "ch16.mp3",
+   "duration": 875.667
+  },
+  "ch17": {
+   "file": "ch17.mp3",
+   "duration": 436.37
+  },
+  "ch18": {
+   "file": "ch18.mp3",
+   "duration": 955.09
+  },
+  "ch20": {
+   "file": "ch20.mp3",
+   "duration": 425.039
+  },
+  "ch21": {
+   "file": "ch21.mp3",
+   "duration": 901.278
+  },
+  "ch22": {
+   "file": "ch22.mp3",
+   "duration": 673.991
+  },
+  "ch23": {
+   "file": "ch23.mp3",
+   "duration": 895.705
+  },
+  "ch24": {
+   "file": "ch24.mp3",
+   "duration": 558.426
+  },
+  "ch25": {
+   "file": "ch25.mp3",
+   "duration": 1095.478
+  },
+  "ch26": {
+   "file": "ch26.mp3",
+   "duration": 485.992
+  },
+  "ch27": {
+   "file": "ch27.mp3",
+   "duration": 700.636
+  },
+  "ch28": {
+   "file": "ch28.mp3",
+   "duration": 1069.786
+  },
+  "ch29": {
+   "file": "ch29.mp3",
+   "duration": 1115.715
+  },
+  "ch30": {
+   "file": "ch30.mp3",
+   "duration": 394.841
+  },
+  "ch32": {
+   "file": "ch32.mp3",
+   "duration": 686.694
+  },
+  "ch33": {
+   "file": "ch33.mp3",
+   "duration": 850.973
+  },
+  "ch34": {
+   "file": "ch34.mp3",
+   "duration": 887.766
+  },
+  "ch35": {
+   "file": "ch35.mp3",
+   "duration": 1144.822
+  },
+  "ch36": {
+   "file": "ch36.mp3",
+   "duration": 913.284
+  },
+  "ch37": {
+   "file": "ch37.mp3",
+   "duration": 1050.584
+  },
+  "ch38": {
+   "file": "ch38.mp3",
+   "duration": 1307.733
+  },
+  "ch19": {
+   "file": "ch19.mp3",
+   "duration": 501.015
+  },
+  "ch31": {
+   "file": "ch31.mp3",
+   "duration": 719.932
   }
  }
 }
